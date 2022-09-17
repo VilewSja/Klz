@@ -29,9 +29,9 @@ global.footer = 'HW MODS WA' //ubah jadi nama mu, note tanda ' gausah di hapus!
 // Other
 global.owner = ['6281255090574']
 global.premium = ['6281255090574']
-global.packname = 'HW MODS WA'
-global.ownerr = ['HW MODS WA']
-global.author = 'HW MODS WA'
+global.packname = 'lupyu'
+global.ownerr = ['Levi']
+global.author = 'ByLevi'
 global.sessionName = 'haikal'
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sp = '⭔'
