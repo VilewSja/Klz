@@ -71,10 +71,10 @@ global.limitawal = {
 }
 //=================================================//
 global.thumb = fs.readFileSync("./baseikal/image/kon.jpg")
-global.visoka = fs.readFileSync("./baseikal/video/hikal.gif")
+global.visoka = fs.readFileSync("./baseikal/image/kon.jpg")
 global.log0 = fs.readFileSync("./baseikal/image/kon.jpg")
 global.menuimg = 'https://telegra.ph/file/15660073d2ed15bd96198.jpg'
-global.ggikal = fs.readFileSync("./baseikal/video/haikal.mp4")
+global.ggikal = fs.readFileSync("./baseikal/image/kon.jpg")
 //=================================================//
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
