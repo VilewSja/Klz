@@ -33,8 +33,8 @@ global.packname = 'lupyu'
 global.ownerr = ['Levi']
 global.author = 'ByLevi'
 global.sessionName = 'haikal'
-global.prefa = ['','!','.',',','🐤','🗿']
-global.sp = '⭔'
+global.prefa = ['!','.',',','🐤','🗿']
+global.sp = '»'
 global.mess = {
     nsfw: '*Fitur NSFW tidak diaktifkan, chat admin grup supaya diaktifkan*_',
     wait: '*Loading... Sabar Wibu*_',
